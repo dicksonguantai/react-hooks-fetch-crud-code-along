@@ -35,6 +35,18 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "eggs",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 7
+    },
+    {
+      "name": "chocolate",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 8
     }
   ]
 }
